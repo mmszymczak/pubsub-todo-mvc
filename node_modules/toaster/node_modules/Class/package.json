@@ -1,0 +1,61 @@
+{
+  "name": "Class",
+  "author": {
+    "name": "Firejune",
+    "url": "http://firejune.com/"
+  },
+  "version": "0.1.3",
+  "description": "Port of Prototype.js inheritance implementation for Node.js.",
+  "homepage": "http://github.com/firejune/class",
+  "keywords": [
+    "prototype",
+    "prototypejs",
+    "inheritance",
+    "implementation",
+    "class"
+  ],
+  "main": "lib/class",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/firejune/class.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/mit-license.php"
+    }
+  ],
+  "bugs": {
+    "url": "http://github.com/firejune/class/issues"
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "_npmUser": {
+    "name": "firejune",
+    "email": "to@firejune.com"
+  },
+  "_id": "Class@0.1.3",
+  "dependencies": {},
+  "devDependencies": {},
+  "_engineSupported": true,
+  "_npmVersion": "1.0.94",
+  "_nodeVersion": "v0.4.12",
+  "_defaultsLoaded": true,
+  "dist": {
+    "shasum": "b5b04e554497d029112ebb235cd1b31c8a3e97c0",
+    "tarball": "http://registry.npmjs.org/Class/-/Class-0.1.3.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "firejune",
+      "email": "to@firejune.com"
+    }
+  ],
+  "_shasum": "b5b04e554497d029112ebb235cd1b31c8a3e97c0",
+  "_resolved": "https://registry.npmjs.org/Class/-/Class-0.1.3.tgz",
+  "_from": "Class@*"
+}
