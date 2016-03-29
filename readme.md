@@ -1,9 +1,6 @@
 # About myTODO
 
-Something about myTODO
+REST, AJAX, pub/sub pattern, module pattern
 
-# Helpfull Links
-
-- [Postman](https://www.getpostman.com/)
 
 
